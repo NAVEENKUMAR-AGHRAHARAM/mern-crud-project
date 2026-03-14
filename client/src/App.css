@@ -1,0 +1,11 @@
+body {
+background: linear-gradient(135deg, #667eea, #764ba2);
+}
+.App{
+  min-height:100vh;
+  background: linear-gradient(135deg,#5f9cff,#7a4db8);
+  display:flex;
+  justify-content:center;
+  align-items:flex-start;
+  padding-top:80px;
+}
