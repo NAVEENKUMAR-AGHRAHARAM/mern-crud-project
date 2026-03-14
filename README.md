@@ -2,29 +2,28 @@
 
 This is a full-stack CRUD application built using the MERN stack.
 
-## Technologies Used
-- React.js
-- Node.js
-- Express.js
-- MongoDB
+## technologies used
+- react.js
+- node.js
+- express.js
+- mongodb
 
-## Features
-- Add User
-- View Users
-- Update User
-- Delete User
+## features
+- add user
+- view users
+- update user
+- delete user
 
-## Installation
+## installation
 
-### Clone the repository
-git clone https://github.com/NAVEENKUMAR-AGHRAHARAM/mern-crud-project.git
+### install dependencies
 
-### Install dependencies
-cd client
-npm install
+cd client  
+npm install  
 
-cd ../server
-npm install
+cd ../server  
+npm install  
 
-### Run project
+### run project
+
 npm start
